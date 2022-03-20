@@ -1,5 +1,7 @@
 # ESP Web Flasher
 
+Fork
+This is a fork of Adafruit WebSerial ESPTool. At the time fo the fork, their repository was a single-use website. This fork converted the code into a reusable package and published it to NPM.
 A Web Serial package for updating your ESP bootloader via the browser.
 
 ## Used by
