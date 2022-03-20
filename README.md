@@ -1,5 +1,9 @@
 # ESP Web Flasher
 
+
+inBrowser programming the ESP8266 32mbit==4MByte with Electra, NO Tools Needed!, ESP Web Tools, WebSerial
+- testing https://ldijkman.github.io/randomnerd_esp32_wifi_manager/ProgramESP/index.html
+
 Fork 
 
 [Adafruit WebSerial ESPTool](https://github.com/adafruit/Adafruit_WebSerial_ESPTool)
