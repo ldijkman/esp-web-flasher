@@ -10,7 +10,7 @@ Fork
 
 This is a fork of Adafruit WebSerial ESPTool. 
 
-At the time fo the fork, their repository was a single-use website. 
+At Fork time, their repository was a single-use website. 
 
 This fork converted the code into a reusable package and published it to NPM.
 
@@ -30,5 +30,5 @@ This project is used by the [ESP Web Tools](https://github.com/esphome/esp-web-t
 ## Fork
 
 This is a fork of [Adafruit WebSerial ESPTool](https://github.com/adafruit/Adafruit_WebSerial_ESPTool). 
-- At the time fo the fork, their repository was a single-use website. 
+- At Fork time, their repository was a single-use website. 
 - This fork converted the code into a reusable package and published it to NPM.
